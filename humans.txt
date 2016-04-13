@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Troy Scott	troy_pdx@fastmail.fm
 
 # THANKS
 
